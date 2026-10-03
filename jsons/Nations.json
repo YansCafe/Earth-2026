@@ -3,7 +3,8 @@
 		"name": "Afganistan",
 		"leaderName": "Human",
 		"adjective": ["Afganistan"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain", "Avoid Ocean",
+      "Avoid Coast"],
 		"preferredVictoryType": "Time",
 		
 		"outerColor": [16,16,16],
