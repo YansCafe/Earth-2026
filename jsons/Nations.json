@@ -32,8 +32,8 @@
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [156,96,16],
+		"innerColor": [255,202,70],
 		"uniqueName": "Cultured and wealthy",
 		"uniques": ["[+100 Culture, +100 Gold]"],
 		"cities": ["Aljazair"]
@@ -45,10 +45,10 @@
 		"startBias": ["Mountain", "Avoid [Coast]"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [25,66,13],
+		"innerColor": [75,210,230],
+		"uniqueName": "Wealthy and happy",
+		"uniques": ["[+100 Gold, +100 Happiness]"],
 		"cities": ["Andorra"]
 	},
 	{
