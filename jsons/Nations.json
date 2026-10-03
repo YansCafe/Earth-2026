@@ -6,8 +6,8 @@
 		"startBias": ["Mountain", "Avoid [Coast]"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [164,146,196],
+		"innerColor": [155,100,208],
 		"uniqueName": "Cultured and religious",
 		"uniques": ["[+100 Culture, +100 Faith]"],
 		"cities": ["Afganistan"]
@@ -19,8 +19,8 @@
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [176,146,96],
+		"innerColor": [55,206,100],
 		"uniqueName": "Cultured and productive",
 		"uniques": ["[+100 Culture, +100 Production]"],
 		"cities": ["Albania"]
@@ -34,8 +34,8 @@
 		
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"uniqueName": "Cultured and wealthy",
+		"uniques": ["[+100 Culture, +100 Gold]"],
 		"cities": ["Aljazair"]
 	},
 	{
