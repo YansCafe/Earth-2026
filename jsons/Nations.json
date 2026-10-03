@@ -4,7 +4,6 @@
 		"leaderName": "Human",
 		"adjective": ["Afganistan"],
 		"startBias": ["Mountain", "Avoid [Coast]"],
-		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Time",
 		
 		"outerColor": [16,16,16],
