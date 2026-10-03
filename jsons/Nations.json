@@ -1,5 +1,5 @@
 [
-	{
+{
 		"name": "Afganistan",
 		"leaderName": "Human",
 		"adjective": ["Afganistan"],
@@ -11,7 +11,7 @@
 		"uniqueName": "Cultured and religious",
 		"uniques": ["[+100 Culture, +100 Faith]"],
 		"cities": ["Afganistan"]
-	}
+	},
 	{
 		"name": "Albania",
 		"leaderName": "Human",
@@ -24,11 +24,24 @@
 		"uniqueName": "Cultured and productive",
 		"uniques": ["[+100 Culture, +100 Production]"],
 		"cities": ["Albania"]
-	}
+	},
 	{
-		"name": "Afganistan",
+		"name": "Aljazair",
 		"leaderName": "Human",
-		"adjective": ["Afganistan"],
+		"adjective": ["Aljazair"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Aljazair"]
+	},
+	{
+		"name": "Andorra",
+		"leaderName": "Human",
+		"adjective": ["Andorra"],
 		"startBias": ["Mountain", "Avoid [Coast]"],
 		"preferredVictoryType": "Time",
 		
@@ -36,6 +49,215 @@
 		"innerColor": [255,200,200],
 		"uniqueName": "Cultured and religious",
 		"uniques": ["[+100 Culture, +100 Faith]"],
-		"cities": ["Afganistan"]
+		"cities": ["Andorra"]
+	},
+	{
+		"name": "Angola",
+		"leaderName": "Human",
+		"adjective": ["Angola"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Angola"]
+	},
+	{
+		"name": "Antigua dan Barbuda",
+		"leaderName": "Human",
+		"adjective": ["Antigua dan Barbuda"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Antigua dan Barbuda"]
+	},
+	{
+		"name": "Argentina",
+		"leaderName": "Human",
+		"adjective": ["Argentina"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Argentina"]
+	},
+	{
+		"name": "Armenia",
+		"leaderName": "Human",
+		"adjective": ["Armenia"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Armenia"]
+	},
+	{
+		"name": "Australia",
+		"leaderName": "Human",
+		"adjective": ["Australia"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Australia"]
+	},
+	{
+		"name": "Austria",
+		"leaderName": "Human",
+		"adjective": ["Austria"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Austria"]
+	},
+	{
+		"name": "Azerbaijan",
+		"leaderName": "Human",
+		"adjective": ["Azerbaijan"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Azerbaijan"]
+	},
+	{
+		"name": "Bahama",
+		"leaderName": "Human",
+		"adjective": ["Bahama"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Bahama"]
+	},
+	{
+		"name": "Bahrain",
+		"leaderName": "Human",
+		"adjective": ["Bahrain"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Bahrain"]
+	},
+	{
+		"name": "Bangladesh",
+		"leaderName": "Human",
+		"adjective": ["Bangladesh"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Bangladesh"]
+	},
+	{
+		"name": "Barbados",
+		"leaderName": "Human",
+		"adjective": ["Barbados"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Barbados"]
+	},
+	{
+		"name": "Belarus",
+		"leaderName": "Human",
+		"adjective": ["Belarus"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Belarus"]
+	},
+	{
+		"name": "Belgia",
+		"leaderName": "Human",
+		"adjective": ["Belgia"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Belgia"]
+	},
+	{
+		"name": "Belize",
+		"leaderName": "Human",
+		"adjective": ["Belize"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Belize"]
+	},
+	{
+		"name": "Benin",
+		"leaderName": "Human",
+		"adjective": ["Benin"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Benin"]
+	},
+	{
+		"name": "Bhutan",
+		"leaderName": "Human",
+		"adjective": ["Bhutan"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Bhutan"]
 	}
+		]
 ]
