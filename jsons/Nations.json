@@ -12,4 +12,30 @@
 		"uniques": ["[+100 Culture, +100 Faith]"],
 		"cities": ["Afganistan"]
 	}
+	{
+		"name": "Albania",
+		"leaderName": "Human",
+		"adjective": ["Albania"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and productive",
+		"uniques": ["[+100 Culture, +100 Production]"],
+		"cities": ["Albania"]
+	}
+	{
+		"name": "Afganistan",
+		"leaderName": "Human",
+		"adjective": ["Afganistan"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Afganistan"]
+	}
 ]
