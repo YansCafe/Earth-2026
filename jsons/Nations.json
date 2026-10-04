@@ -133,11 +133,11 @@
 		"name": "Azerbaijan",
 		"leaderName": "Human",
 		"adjective": ["Azerbaijan"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [76,15,12],
+		"innerColor": [252,20,27],
 		"uniqueName": "Cultured and religious",
 		"uniques": ["[+100 Culture, +100 Faith]"],
 		"cities": ["Azerbaijan"]
