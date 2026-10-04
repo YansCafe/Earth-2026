@@ -107,13 +107,13 @@
 		"name": "Australia",
 		"leaderName": "Human",
 		"adjective": ["Australia"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [61,36,89],
+		"innerColor": [25,205,20],
+		"uniqueName": "Cultured and gold mine",
+		"uniques": ["[+100 Culture, +100 Gold]"],
 		"cities": ["Australia"]
 	},
 	{
