@@ -71,8 +71,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [26,16,162],
+		"innerColor": [25,20,30],
 		"uniqueName": "Cultured and delicious food",
 		"uniques": ["[+100 Culture, +100 Food]"],
 		"cities": ["Antigua dan Barbuda"]
@@ -81,13 +81,13 @@
 		"name": "Argentina",
 		"leaderName": "Human",
 		"adjective": ["Argentina"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [56,11,18],
+		"innerColor": [25,20,47],
+		"uniqueName": "Cultured and Love Football",
+		"uniques": ["[+100 Culture, +100 Happiness]"],
 		"cities": ["Argentina"]
 	},
 	{
