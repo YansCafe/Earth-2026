@@ -55,13 +55,13 @@
 		"name": "Angola",
 		"leaderName": "Human",
 		"adjective": ["Angola"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [46,26,36],
+		"innerColor": [55,60,80],
+		"uniqueName": "Cultured and spices",
+		"uniques": ["[+100 Culture, +100 Food]"],
 		"cities": ["Angola"]
 	},
 	{
