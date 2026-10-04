@@ -146,13 +146,13 @@
 		"name": "Bahama",
 		"leaderName": "Human",
 		"adjective": ["Bahama"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Plain", "Coast"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [56,76,67],
+		"innerColor": [75,70,80],
+		"uniqueName": "shellfish food and 700 tropical islands",
+		"uniques": ["[+100 Food, +100 Production]"],
 		"cities": ["Bahama"]
 	},
 	{
