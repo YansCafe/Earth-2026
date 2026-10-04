@@ -146,7 +146,7 @@
 		"name": "Bahama",
 		"leaderName": "Human",
 		"adjective": ["Bahama"],
-		"startBias": ["Plain", "Coast"],
+		"startBias": ["Plains", "Coast"],
 		"preferredVictoryType": "Time",
 		
 		"outerColor": [56,76,67],
@@ -159,13 +159,13 @@
 		"name": "Bahrain",
 		"leaderName": "Human",
 		"adjective": ["Bahrain"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Desert", "Coast"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [96,15,100],
+		"innerColor": [25,20,0],
+		"uniqueName": "national food and high exchange rate ",
+		"uniques": ["[+100 Food, +100 Gold]"],
 		"cities": ["Bahrain"]
 	},
 	{
