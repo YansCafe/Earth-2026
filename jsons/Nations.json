@@ -120,13 +120,13 @@
 		"name": "Austria",
 		"leaderName": "Human",
 		"adjective": ["Austria"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain", "Forest", "Jungle"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [13,36,38],
+		"innerColor": [85,210,20],
+		"uniqueName": "Cultured and authentic culinary",
+		"uniques": ["[+100 Culture, +100 Food]"],
 		"cities": ["Austria"]
 	},
 	{
