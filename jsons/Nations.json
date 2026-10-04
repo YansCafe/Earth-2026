@@ -172,13 +172,13 @@
 		"name": "Bangladesh",
 		"leaderName": "Human",
 		"adjective": ["Bangladesh"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["River", "Forest"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [13,29,98],
+		"innerColor": [25,20,20],
+		"uniqueName": "textile country and like rice and fish",
+		"uniques": ["[+100 Production, +100 Food]"],
 		"cities": ["Bangladesh"]
 	},
 	{
