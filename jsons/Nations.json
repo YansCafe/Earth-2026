@@ -42,7 +42,7 @@
 		"name": "Andorra",
 		"leaderName": "Human",
 		"adjective": ["Andorra"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Time",
 		
 		"outerColor": [25,66,13],
@@ -68,13 +68,13 @@
 		"name": "Antigua dan Barbuda",
 		"leaderName": "Human",
 		"adjective": ["Antigua dan Barbuda"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Time",
 		
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"uniqueName": "Cultured and delicious food",
+		"uniques": ["[+100 Culture, +100 Food]"],
 		"cities": ["Antigua dan Barbuda"]
 	},
 	{
