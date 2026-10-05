@@ -211,13 +211,13 @@
 		"name": "Belgia",
 		"leaderName": "Human",
 		"adjective": ["Belgia"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [9,255,235],
+		"innerColor": [37,99,240],
+		"uniqueName": "diamond capital and the invention of the saxophone",
+		"uniques": ["[+100 Gold, +100 Science]"],
 		"cities": ["Belgia"]
 	},
 	{
