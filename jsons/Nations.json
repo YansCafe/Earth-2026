@@ -198,13 +198,13 @@
 		"name": "Belarus",
 		"leaderName": "Human",
 		"adjective": ["Belarus"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Marsh", "Jungle"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [1,7,10],
+		"innerColor": [55,60,13],
+		"uniqueName": "Dump truck and potato food",
+		"uniques": ["[+100 Production, +100 Food]"],
 		"cities": ["Belarus"]
 	},
 	{
