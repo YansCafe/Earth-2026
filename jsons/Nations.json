@@ -237,7 +237,7 @@
 		"name": "Benin",
 		"leaderName": "Human",
 		"adjective": ["Benin"],
-		"startBias": ["Lake"],
+		"startBias": ["Lakes"],
 		"preferredVictoryType": "Time",
 		
 		"outerColor": [37,36,18],
@@ -250,13 +250,13 @@
 		"name": "Bhutan",
 		"leaderName": "Human",
 		"adjective": ["Bhutan"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain", "Jungle"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [76,28,53],
+		"innerColor": [29,46,28],
+		"uniqueName": "hydroelectric and  Buddhism Vajrayana",
+		"uniques": ["[+100 Production, +100 Faith]"],
 		"cities": ["Bhutan"]
 	}
 ]
