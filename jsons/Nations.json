@@ -237,13 +237,13 @@
 		"name": "Benin",
 		"leaderName": "Human",
 		"adjective": ["Benin"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Lake"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [37,36,18],
+		"innerColor": [55,80,20],
+		"uniqueName": "Ethnobotany and Archaeology Conservation of Dahomey and Voodoo",
+		"uniques": ["[+100 Science, +100 Faith]"],
 		"cities": ["Benin"]
 	},
 	{
