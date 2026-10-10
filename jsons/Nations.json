@@ -263,13 +263,13 @@
 		"name": "Bolivia",
 		"leaderName": "Human",
 		"adjective": ["Bolivia"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain", "Lakes", "Desert"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [1,15,20],
+		"innerColor": [75,56,100],
+		"uniqueName": "Hot Stone Soup and Catholic Syncretism",
+		"uniques": ["[+100 Food, +100 Faith]"],
 		"cities": ["Bolivia"]
 	},
 	{
