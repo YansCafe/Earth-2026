@@ -258,5 +258,265 @@
 		"uniqueName": "hydroelectric and  Buddhism Vajrayana",
 		"uniques": ["[+100 Production, +100 Faith]"],
 		"cities": ["Bhutan"]
+	},
+	{
+		"name": "Bolivia",
+		"leaderName": "Human",
+		"adjective": ["Bolivia"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Bolivia"]
+	},
+	{
+		"name": "Bosnia dan Herzegovina",
+		"leaderName": "Human",
+		"adjective": ["Bosnia dan Herzegovina"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Bosnia dan Herzegovina"]
+	},
+	{
+		"name": "Botswana",
+		"leaderName": "Human",
+		"adjective": ["Botswana"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Botswana"]
+	},
+	{
+		"name": "Brasil",
+		"leaderName": "Human",
+		"adjective": ["Brasil"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Brasil"]
+	},
+	{
+		"name": "Brunei Darussalam",
+		"leaderName": "Human",
+		"adjective": ["Brunei Darussalam"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Brunei Darussalam"]
+	},
+	{
+		"name": "Bulgaria",
+		"leaderName": "Human",
+		"adjective": ["Bulgaria"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Bulgaria"]
+	},
+	{
+		"name": "Burkina Faso",
+		"leaderName": "Human",
+		"adjective": ["Burkina Faso"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Burkina Faso"]
+	},
+	{
+		"name": "Burundi",
+		"leaderName": "Human",
+		"adjective": ["Burundi"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Burundi"]
+	},
+	{
+		"name": "Ceko",
+		"leaderName": "Human",
+		"adjective": ["Ceko"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Ceko"]
+	},
+	{
+		"name": "Chad",
+		"leaderName": "Human",
+		"adjective": ["Chad"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Chad"]
+	},
+	{
+		"name": "Cile",
+		"leaderName": "Human",
+		"adjective": ["Cile"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Cile"]
+	},
+	{
+		"name": "Denmark",
+		"leaderName": "Human",
+		"adjective": ["Denmark"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Denmark"]
+	},
+	{
+		"name": "Djibouti",
+		"leaderName": "Human",
+		"adjective": ["Djibouti"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Djibouti"]
+	},
+	{
+		"name": "Dominika",
+		"leaderName": "Human",
+		"adjective": ["Dominika"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Dominika"]
+	},
+	{
+		"name": "Ekuador",
+		"leaderName": "Human",
+		"adjective": ["Ekuador"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Ekuador"]
+	},
+	{
+		"name": "El Salvador",
+		"leaderName": "Human",
+		"adjective": ["El Salvador"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["El Salvador"]
+	},
+	{
+		"name": "Eritrea",
+		"leaderName": "Human",
+		"adjective": ["Eritrea"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Eritrea"]
+	},
+	{
+		"name": "Estonia",
+		"leaderName": "Human",
+		"adjective": ["Estonia"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Estonia"]
+	},
+	{
+		"name": "Eswatini",
+		"leaderName": "Human",
+		"adjective": ["Eswatini"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Eswatini"]
+	},
+	{
+		"name": "Etiopia",
+		"leaderName": "Human",
+		"adjective": ["Etiopia"],
+		"startBias": ["Mountain", "Avoid [Coast]"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Cultured and religious",
+		"uniques": ["[+100 Culture, +100 Faith]"],
+		"cities": ["Etiopia"]
 	}
 ]
