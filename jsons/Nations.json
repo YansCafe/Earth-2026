@@ -216,7 +216,7 @@
 		
 		"outerColor": [9,255,235],
 		"innerColor": [37,99,240],
-		"uniqueName": "diamond capital and the invention of the saxophone",
+		"uniqueName": "diamond capital and the inventor of the saxophone",
 		"uniques": ["[+100 Gold, +100 Science]"],
 		"cities": ["Belgia"]
 	},
@@ -224,13 +224,13 @@
 		"name": "Belize",
 		"leaderName": "Human",
 		"adjective": ["Belize"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [46,16,64],
+		"innerColor": [95,0,28],
+		"uniqueName": "green gold and traditional Mayan faith",
+		"uniques": ["[+100 Gold, +100 Faith]"],
 		"cities": ["Belize"]
 	},
 	{
