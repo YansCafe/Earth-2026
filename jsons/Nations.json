@@ -302,13 +302,13 @@
 		"name": "Brasil",
 		"leaderName": "Human",
 		"adjective": ["Brasil"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Jungle", "River"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [41,212,119],
+		"innerColor": [67,33,97],
+		"uniqueName": "Rio Carnival & Football and King of World Coffee",
+		"uniques": ["[+100 Happiness, +100 Production]"],
 		"cities": ["Brasil"]
 	},
 	{
