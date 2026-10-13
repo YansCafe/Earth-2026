@@ -289,13 +289,13 @@
 		"name": "Botswana",
 		"leaderName": "Human",
 		"adjective": ["Botswana"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [9,33,48],
+		"innerColor": [27,32,57],
+		"uniqueName": "San & Pula Tribe and The Largest Diamond",
+		"uniques": ["[+100 Culture, +100 Production]"],
 		"cities": ["Botswana"]
 	},
 	{
