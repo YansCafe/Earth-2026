@@ -276,13 +276,13 @@
 		"name": "Bosnia dan Herzegovina",
 		"leaderName": "Human",
 		"adjective": ["Bosnia dan Herzegovina"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [72,44,4],
+		"innerColor": [121,150,59],
+		"uniqueName": " World Diamonds and Premium Beef",
+		"uniques": ["[+100 Emas, +100 Production]"],
 		"cities": ["Bosnia dan Herzegovina"]
 	},
 	{
