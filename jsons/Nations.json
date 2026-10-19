@@ -390,7 +390,7 @@
 		"cities": ["Chad"]
 	},
 	{
-		"name": "Cile",
+		"name": "Chile",
 		"leaderName": "Human",
 		"adjective": ["Cile"],
 		"startBias": ["Desert"],
@@ -401,6 +401,19 @@
 		"uniqueName": "The world's largest copper producer and major exporter of premium wine",
 		"uniques": ["[+100 Production, +100 Gold]"],
 		"cities": ["Cile"]
+	},
+	{
+		"name": "China",
+		"leaderName": "Human",
+		"adjective": ["China"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Time",
+		
+		"outerColor": [79,163,149],
+		"innerColor": [154,255,129],
+		"uniqueName": "world technology manufacturing giant and Inventor of the ancient compass/paper",
+		"uniques": ["[+100 Production, +100 Science]"],
+		"cities": ["China"]
 	},
 	{
 		"name": "Denmark",
