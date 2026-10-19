@@ -315,13 +315,13 @@
 		"name": "Brunei Darussalam",
 		"leaderName": "Human",
 		"adjective": ["Brunei Darussalam"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Jungle"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [62,27,39],
+		"innerColor": [228,220,20],
+		"uniqueName": "free citizens' taxes & medical facilities and Islamic Sultanate",
+		"uniques": ["[+100 Gold, +100 Faith]"],
 		"cities": ["Brunei Darussalam"]
 	},
 	{
