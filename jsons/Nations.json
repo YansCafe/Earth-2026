@@ -341,13 +341,13 @@
 		"name": "Burkina Faso",
 		"leaderName": "Human",
 		"adjective": ["Burkina Faso"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [46,31,40],
+		"innerColor": [123,96,34],
+		"uniqueName": "Tô (sorghum porridge) and FESPACO Festival",
+		"uniques": ["[+100 Food, +100 Culture]"],
 		"cities": ["Burkina Faso"]
 	},
 	{
