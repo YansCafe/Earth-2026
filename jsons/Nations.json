@@ -354,13 +354,13 @@
 		"name": "Burundi",
 		"leaderName": "Human",
 		"adjective": ["Burundi"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Lakes", "Hill"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [43,79,13],
+		"innerColor": [49,96,6],
+		"uniqueName": "Drummers of Burundi and Producer of premium organic Arabica coffee",
+		"uniques": ["[+100 Culture, +100 Production]"],
 		"cities": ["Burundi"]
 	},
 	{
