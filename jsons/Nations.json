@@ -380,13 +380,13 @@
 		"name": "Chad",
 		"leaderName": "Human",
 		"adjective": ["Chad"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [81,37,46],
+		"innerColor": [6,99,30],
+		"uniqueName": "Esh porridge with spicy sauce and Wodaabe Tribe Men's Beauty Festival",
+		"uniques": ["[+100 Food, +100 Culture]"],
 		"cities": ["Chad"]
 	},
 	{
