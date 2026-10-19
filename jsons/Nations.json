@@ -393,13 +393,13 @@
 		"name": "Cile",
 		"leaderName": "Human",
 		"adjective": ["Cile"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [32,43,42],
+		"innerColor": [74,59,54],
+		"uniqueName": "The world's largest copper producer and major exporter of premium wine",
+		"uniques": ["[+100 Production, +100 Gold]"],
 		"cities": ["Cile"]
 	},
 	{
