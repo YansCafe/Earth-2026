@@ -367,13 +367,13 @@
 		"name": "Ceko",
 		"leaderName": "Human",
 		"adjective": ["Ceko"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [45,79,163],
+		"innerColor": [110,18,48],
+		"uniqueName": "luxury Bohemian crystal art maker and The country with the most ancient castles in Europe",
+		"uniques": ["[+100 Production, +100 Culture]"],
 		"cities": ["Ceko"]
 	},
 	{
