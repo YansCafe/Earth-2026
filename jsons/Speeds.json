@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Sangat Cepat",
+        "modifier": 0.50,
+        "productionCostModifier": 0.50,
+        "goldCostModifier": 0.50,
+        "scienceCostModifier": 0.50,
+        "cultureCostModifier": 0.50,
+        "faithCostModifier": 0.50,
+        "improvementBuildLengthModifier": 0.50,
+        "dealDuration": 15,
+        "goldGiftModifier": 1.5,
+        "cityStateTributeScalingInterval": 3,
+        "barbarianModifier": 0.50,
+        "goldenAgeLengthModifier": 0.50,
+        "religiousPressureAdjacentCity": 9,
+        "peaceDealDuration": 5,
+        "startYear": -4000,
+        "turns": [
+            {
+                "yearsPerTurn": 60,
+                "untilTurn": 75
+            },
+            {
+                "yearsPerTurn": 37.5,
+                "untilTurn": 135
+            },
+            {
+                "yearsPerTurn": 30,
+                "untilTurn": 160
+            },
+            {
+                "yearsPerTurn": 15,
+                "untilTurn": 210
+            },
+            {
+                "yearsPerTurn": 7.5,
+                "untilTurn": 270
+            },
+            {
+                "yearsPerTurn": 3,
+                "untilTurn": 320
+            },
+            {
+                "yearsPerTurn": 1.5,
+                "untilTurn": 440
+            },
+            {
+                "yearsPerTurn": 0.75,
+                "untilTurn": 9999
+            }
+        ]
+    },
+    {
+        "name": "Bakushin",
+        "modifier": 0.33,
+        "productionCostModifier": 0.33,
+        "goldCostModifier": 0.33,
+        "scienceCostModifier": 0.33,
+        "cultureCostModifier": 0.33,
+        "faithCostModifier": 0.33,
+        "improvementBuildLengthModifier": 0.33,
+        "dealDuration": 10,
+        "goldGiftModifier": 1.67,
+        "cityStateTributeScalingInterval": 2,
+        "barbarianModifier": 0.33,
+        "goldenAgeLengthModifier": 0.33,
+        "religiousPressureAdjacentCity": 10,
+        "peaceDealDuration": 3,
+        "startYear": -4000,
+        "turns": [
+            {
+                "yearsPerTurn": 66.8,
+                "untilTurn": 75
+            },
+            {
+                "yearsPerTurn": 41.75,
+                "untilTurn": 135
+            },
+            {
+                "yearsPerTurn": 33.4,
+                "untilTurn": 160
+            },
+            {
+                "yearsPerTurn": 16.7,
+                "untilTurn": 210
+            },
+            {
+                "yearsPerTurn": 8.35,
+                "untilTurn": 270
+            },
+            {
+                "yearsPerTurn": 3.34,
+                "untilTurn": 320
+            },
+            {
+                "yearsPerTurn": 1.67,
+                "untilTurn": 440
+            },
+            {
+                "yearsPerTurn": 0.835,
+                "untilTurn": 9999
+            }
+        ]
+    },
+    {
+        "name": "Kecepatan Cahaya",
+        "modifier": 0.001,
+        "productionCostModifier": 0.001,
+        "goldCostModifier": 0.001,
+        "scienceCostModifier": 0.001,
+        "cultureCostModifier": 0.001,
+        "faithCostModifier": 0.001,
+        "improvementBuildLengthModifier": 0.001,
+        "dealDuration": 1,
+        "goldGiftModifier": 999,
+        "cityStateTributeScalingInterval": 0.001,
+        "barbarianModifier": 0.001,
+        "goldenAgeLengthModifier": 0.001,
+        "religiousPressureAdjacentCity": 999,
+        "peaceDealDuration": 1,
+        "startYear": -4000,
+        "turns": [
+            {
+                "yearsPerTurn": 66.8,
+                "untilTurn": 75
+            },
+            {
+                "yearsPerTurn": 41.75,
+                "untilTurn": 135
+            },
+            {
+                "yearsPerTurn": 33.4,
+                "untilTurn": 160
+            },
+            {
+                "yearsPerTurn": 16.7,
+                "untilTurn": 210
+            },
+            {
+                "yearsPerTurn": 8.35,
+                "untilTurn": 270
+            },
+            {
+                "yearsPerTurn": 3.34,
+                "untilTurn": 320
+            },
+            {
+                "yearsPerTurn": 1.67,
+                "untilTurn": 440
+            },
+            {
+                "yearsPerTurn": 0.835,
+                "untilTurn": 9999
+            }
+        ]
+    }
+]
