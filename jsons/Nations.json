@@ -422,10 +422,10 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Smørrebrød and religious",
-		"uniques": ["[+100 Food, +100 Faith]"],
+		"outerColor": [26,92,71],
+		"innerColor": [25,80,20],
+		"uniqueName": "Smørrebrød and Pioneer & leading producer of wind energy technology",
+		"uniques": ["[+100 Food, +100 Production]"],
 		"cities": ["Denmark"]
 	},
 	{
@@ -435,9 +435,9 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "The majority of the population adheres to Islam and The main logistics hub and transcapital port on the Red Sea",
+		"outerColor": [83,189,166],
+		"innerColor": [125,217,225],
+		"uniqueName": "The majority of the population adheres to Islam and The main logistics hub & transcapital port on the Red Sea",
 		"uniques": ["[+100 Faith, +100 Production]"],
 		"cities": ["Djibouti"]
 	},
@@ -445,26 +445,26 @@
 		"name": "Dominika",
 		"leaderName": "Human",
 		"adjective": ["Dominika"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [76,196,169],
+		"innerColor": [65,20,123],
+		"uniqueName": "Producer of spices and organic plantation products and Kalinago and creole culture",
+		"uniques": ["[+100 Production, +100 Culture]"],
 		"cities": ["Dominika"]
 	},
 	{
 		"name": "Ekuador",
 		"leaderName": "Human",
 		"adjective": ["Ekuador"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [36,76,19],
+		"innerColor": [175,178,146],
+		"uniqueName": "ferronickel/gold mine and Merengue & Bachata dances.",
+		"uniques": ["[+100 Gold, +100 Culture]"],
 		"cities": ["Ekuador"]
 	},
 	{
