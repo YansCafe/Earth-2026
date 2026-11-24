@@ -526,10 +526,10 @@
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": " and ",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [3,6,169],
+		"innerColor": [255,250,240],
+		"uniqueName": "the oldest center of Orthodox Christianity and major producers of Arabica coffee",
+		"uniques": ["[+100 Faith, +100 Production]"],
 		"cities": ["Etiopia"]
 	}
 ]
