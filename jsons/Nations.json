@@ -471,26 +471,26 @@
 		"name": "El Salvador",
 		"leaderName": "Human",
 		"adjective": ["El Salvador"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [26,10,86],
+		"innerColor": [65,210,26],
+		"uniqueName": "surfing and Pupusa",
+		"uniques": ["[+100 Culture, +100 Food]"],
 		"cities": ["El Salvador"]
 	},
 	{
 		"name": "Eritrea",
 		"leaderName": "Human",
 		"adjective": ["Eritrea"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [6,1,1],
+		"innerColor": [5,10,90],
+		"uniqueName": "Deco and Zigni",
+		"uniques": ["[+100 Culture, +100 Food]"],
 		"cities": ["Eritrea"]
 	},
 	{
