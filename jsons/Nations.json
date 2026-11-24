@@ -484,7 +484,7 @@
 		"name": "Eritrea",
 		"leaderName": "Human",
 		"adjective": ["Eritrea"],
-		"startBias": ["Mountain"],
+		"startBias": ["Desert"],
 		"preferredVictoryType": "Time",
 		
 		"outerColor": [6,1,1],
