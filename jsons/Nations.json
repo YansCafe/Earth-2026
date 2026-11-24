@@ -497,26 +497,26 @@
 		"name": "Estonia",
 		"leaderName": "Human",
 		"adjective": ["Estonia"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [6,96,26],
+		"innerColor": [25,2,2],
+		"uniqueName": "e-Estonia and Laulupidu",
+		"uniques": ["[+100 Science, +100 Culture]"],
 		"cities": ["Estonia"]
 	},
 	{
 		"name": "Eswatini",
 		"leaderName": "Human",
 		"adjective": ["Eswatini"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Time",
 		
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
-		"uniques": ["[+100 Culture, +100 Faith]"],
+		"outerColor": [6,1,1],
+		"innerColor": [29,0,20],
+		"uniqueName": "Umhlanga and sugar cane exports",
+		"uniques": ["[+100 Culture, +100 Production]"],
 		"cities": ["Eswatini"]
 	},
 	{
