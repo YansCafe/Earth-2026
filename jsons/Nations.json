@@ -523,12 +523,12 @@
 		"name": "Etiopia",
 		"leaderName": "Human",
 		"adjective": ["Etiopia"],
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Time",
 		
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniqueName": "Cultured and religious",
+		"uniqueName": " and ",
 		"uniques": ["[+100 Culture, +100 Faith]"],
 		"cities": ["Etiopia"]
 	}
